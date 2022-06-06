@@ -1,0 +1,20 @@
+/* I did this in a different way than they wanted but got
+the desired outcome, I was supposed to give each button a unique
+class name and then use that, instead i gave them each a unique
+id and then set the css on all buttons */
+
+
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+#one {
+    background-color: black;
+    color: white;
+}
+
+#two {
+    background-color: yellow;
+}
